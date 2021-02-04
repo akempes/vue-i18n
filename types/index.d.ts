@@ -279,3 +279,4 @@ declare module 'vue/types/options' {
 }
 
 export default VueI18n;
+export { BaseFormatter };
